@@ -6,7 +6,7 @@ A collection of Minecraft Fabric mods.
 
 | Mod | Description | Versions |
 |-----|-------------|----------|
-| [Deep Blue](https://github.com/ekarga/deep-blue-mod) | Ocean megafauna - whales, sharks, giant squid and more | 1.20.1, 1.20.4 |
+| [Deep Blue](https://github.com/Simplifine-gamedev/deep-blue-mod) | Ocean megafauna - whales, sharks, giant squid and more | 1.20.1, 1.20.4 |
 | [Spinning Wheel](https://github.com/Simplifine-gamedev/spinwheel-mod) | Customizable spinning wheel for games and random decisions | 1.21.1 |
 | [Balloon Pop](https://github.com/Simplifine-gamedev/balloon-mod) | Shootable balloons that drop loot when popped | 1.21.1 |
 | [Aurora](https://github.com/Simplifine-gamedev/aurora-mod) | Aurora borealis visual effects | 1.21.1 |
